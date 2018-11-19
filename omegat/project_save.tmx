@@ -2186,6 +2186,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“战无双，你还不动手帮他？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="user" changedate="20181119T051520Z" creationid="user" creationdate="20181119T051520Z">
+        <seg>"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“扑通！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180807T153310Z" creationid="Joey" creationdate="20180807T153310Z">
@@ -12660,8 +12668,8 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       <tuv lang="ZH-CN">
         <seg>第十四章 看走眼了</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="user" changedate="20181119T050049Z" creationid="user" creationdate="20181119T050049Z">
-        <seg>Chapter 14 </seg>
+      <tuv lang="EN-US" changeid="user" changedate="20181119T051339Z" creationid="user" creationdate="20181119T050049Z">
+        <seg>Chapter 14: Wrong Judgement </seg>
       </tuv>
     </tu>
     <tu>
