@@ -1016,3 +1016,4 @@
 血炼	Blood Trials
 林立	Linli
 狮蝎	Manticore
+安度因	Anduin
