@@ -1021,3 +1021,4 @@
 迟缓术	Waning spell
 光亮术	Illuminating spell
 低级魔法	low-skilled spell
+五级魔兽狮蝎	fifth level Manticore beast
