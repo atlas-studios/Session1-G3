@@ -1049,3 +1049,4 @@
 排列	arrangement
 药剂室	concocting chamber
 药水	elixirs
+费雷	Ferel	fake name of mc
