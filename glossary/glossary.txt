@@ -1043,3 +1043,5 @@
 魔法	magic spells
 魔法师	magician	use magician instead of wizard
 魔法师协会里	Magicians' Association	use the magicians' association
+老法师	old magician
+魔导士	high magician
