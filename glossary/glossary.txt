@@ -1041,3 +1041,5 @@
 魔法师	wizard
 水晶球	crystal ball
 魔法	magic spells
+魔法师	magician	use magician instead of wizard
+魔法师协会里	Magicians' Association	use the magicians' association
