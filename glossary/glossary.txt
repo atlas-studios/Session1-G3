@@ -1040,3 +1040,4 @@
 级	level
 魔法师	wizard
 水晶球	crystal ball
+魔法	magic spells
