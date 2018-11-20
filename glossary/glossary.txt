@@ -1017,3 +1017,5 @@
 林立	Linli
 狮蝎	Manticore
 安度因	Anduin
+吟唱	chanted
+迟缓术	Waning spell
