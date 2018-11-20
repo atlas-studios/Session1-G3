@@ -1019,3 +1019,5 @@
 安度因	Anduin
 吟唱	chanted
 迟缓术	Waning spell
+光亮术	Illuminating spell
+低级魔法	low-skilled spell
