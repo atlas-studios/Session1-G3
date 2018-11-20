@@ -1045,3 +1045,7 @@
 魔法师协会里	Magicians' Association	use the magicians' association
 老法师	old magician
 魔导士	high magician
+元素	elements
+排列	arrangement
+药剂室	concocting chamber
+药水	elixirs
