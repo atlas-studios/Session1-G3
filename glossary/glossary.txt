@@ -1014,3 +1014,5 @@
 灵兽山	Spirit Beast Mountain	mountain near or in the school i guess?
 院	courtyard
 血炼	Blood Trials
+林立	Linli
+狮蝎	Manticore
