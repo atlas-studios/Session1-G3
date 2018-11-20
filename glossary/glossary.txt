@@ -1038,3 +1038,5 @@
 嗜血蜥蜴	Bloodsucking Lizards
 落日山脉	Dawn Mountain
 级	level
+魔法师	wizard
+水晶球	crystal ball
