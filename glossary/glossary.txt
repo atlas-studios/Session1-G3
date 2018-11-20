@@ -1031,3 +1031,4 @@
 魔法师协会	Wizard Association
 捷术	Agility spell
 葛瑞安	Gyan	Head of Kalos City Wizard Association
+草药	medicinal herbs
