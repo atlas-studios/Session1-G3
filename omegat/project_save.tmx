@@ -5670,6 +5670,14 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凭着这一记仿佛神来之笔的光亮术，刚刚接触魔法一个多月的林立，与五级魔兽之间的距离被无限拉近。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="user" changedate="20181120T130700Z" creationid="user" creationdate="20181120T130700Z">
+        <seg>From the use of this critical Illuminating spell, the level of this novice learner of spells is not far off from that of a fifth level demon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>出乎江逸的意料之外，那荣管事很是大度的摆手道：“没事，这两天记得送过来就行，江逸你快去吧，省的柳长老等着。在炼丹房好好做事，千万记住别惹柳长老不高兴了！“</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062937Z" creationid="USER" creationdate="20180809T124409Z">
@@ -12578,8 +12586,8 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       <tuv lang="ZH-CN">
         <seg>用一级法术重创五级魔兽，这等战绩就连安度因自己也是从未有过……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="user" changedate="20181120T100125Z" creationid="user" creationdate="20181120T100125Z">
-        <seg>Using level one Dharma spells to defeat a fifth level beast.</seg>
+      <tuv lang="EN-US" changeid="user" changedate="20181120T100337Z" creationid="user" creationdate="20181120T100125Z">
+        <seg>Using level one Dharma spells to defeat a fifth level demon - such a fighting technique have been unheard of, even to Anduin himself...</seg>
       </tuv>
     </tu>
     <tu>
