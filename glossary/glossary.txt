@@ -1022,3 +1022,4 @@
 光亮术	Illuminating spell
 低级魔法	low-skilled spell
 五级魔兽狮蝎	fifth level Manticore beast
+五级魔兽狮蝎	fifth level Manticore demon
