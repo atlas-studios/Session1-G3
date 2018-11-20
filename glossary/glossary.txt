@@ -1036,3 +1036,5 @@
 三眼血狼	Three-eyed Blood Wolf
 雷兽	Thunder beast
 嗜血蜥蜴	Bloodsucking Lizards
+落日山脉	Dawn Mountain
+级	level
