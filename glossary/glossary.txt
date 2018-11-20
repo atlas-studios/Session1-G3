@@ -1033,3 +1033,6 @@
 葛瑞安	Gyan	Head of Kalos City Wizard Association
 草药	medicinal herbs
 魔兽	demon beast
+三眼血狼	Three-eyed Blood Wolf
+雷兽	Thunder beast
+嗜血蜥蜴	Bloodsucking Lizards
