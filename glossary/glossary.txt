@@ -1050,3 +1050,6 @@
 药剂室	concocting chamber
 药水	elixirs
 费雷	Ferel	fake name of mc
+克伦威尔	Cromwell	From Merlin household
+麦格雷尼	Malgarini	Father of 伊娜
+伊娜	Rina	girl mc saved tgt with her father and cornwell
