@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“告诉过你多少次了，太过于依赖药水，对你来说没有任何好处，你为什么就是不听？”说完这句话，老法师却微微叹了口气：“不过算了，以后我也不能再天天用水晶球监视你了，你万一遇上什么危险，说不定还真要靠这几瓶药水救命。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="cheon" changedate="20181120T163636Z" creationid="cheon" creationdate="20181120T163636Z">
+        <seg>"How many times have I told you? Over-reliance </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“呜呜！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180815T052124Z" creationid="USER" creationdate="20180803T061632Z">
