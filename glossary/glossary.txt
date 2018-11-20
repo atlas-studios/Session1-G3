@@ -1054,3 +1054,4 @@
 麦格雷尼	Malgarini	Father of 伊娜
 伊娜	Rina	girl mc saved tgt with her father and cornwell
 双足飞龙	two-legged flying dragon
+冰甲术	ice shell spell
