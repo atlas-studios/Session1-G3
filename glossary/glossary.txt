@@ -1023,3 +1023,9 @@
 低级魔法	low-skilled spell
 五级魔兽狮蝎	fifth level Manticore beast
 五级魔兽狮蝎	fifth level Manticore demon
+安度因	Andouin	Old man who taught mc magic
+林立	Ling Li	mc
+迅捷药水	speed elixir
+法师	magician
+加洛斯城	Kalos City
+魔法师协会	Wizard Association
