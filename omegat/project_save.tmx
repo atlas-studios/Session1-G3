@@ -1562,6 +1562,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“基本上，是这么回事。”说完这句话，安度因从法师袍中掏出一只厚厚的信封：“反正你继续留在落日山脉，也学不到什么东西，还不如我推荐你去一个地方，在那里你可以继续学习，也可以干一些你自己想干的事。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="cheon" changedate="20181121T153750Z" creationid="cheon" creationdate="20181121T153750Z">
+        <seg>"Well, thats basically the main point." After this sentence, Anduin took out a thick envelope from his magician's robe. "You can't learn anything if you continue staying in Dawn Mountains anyway, its better for me to recommend you to a place. There, you can continue learning and do the things you want to do."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“多谢杨管事。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20181031T080943Z" creationid="Joey" creationdate="20181031T080943Z">
@@ -2350,6 +2358,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="user" changedate="20181120T155305Z" creationid="user" creationdate="20181120T155305Z">
         <seg>"So that was why you did not tell me that there were still Manticores in the cave?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“所以你准备赶我走了？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="cheon" changedate="20181121T153346Z" creationid="cheon" creationdate="20181121T153346Z">
+        <seg>"So you are planning to chase me out?"</seg>
       </tuv>
     </tu>
     <tu>
