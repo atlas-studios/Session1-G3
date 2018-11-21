@@ -2106,6 +2106,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“当初发现你的时候，我可真没有想到，自己会捡回一个足以媲美格雷斯科的魔法天才。”老法师笑了笑，苍老的声音中带着几分感慨：“到现在我都无法相信，你以前居然从来没接触过魔法。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="cheon" changedate="20181121T151835Z" creationid="cheon" creationdate="20181121T151835Z">
+        <seg>"When I first saw you, I did not think that I would have picked up a magic genius that can be comparable to Greško." Anduin laughed, voice filled with lament,"Up till now, I am still unable to believe that you had no contact with magic before." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“当然！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180911T190105Z" creationid="Joey" creationdate="20180911T190105Z">
