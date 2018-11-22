@@ -528,8 +528,8 @@
       <tuv lang="ZH-CN">
         <seg>“到了加洛斯城之后，如果有什么事需要帮忙的话，可一定要跟我说一声，这次的事要不是多亏了你，我们父女两个可就……”对于林立的救命之恩，罗麦格雷尼旧是念念不忘。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="cheon" changedate="20181122T105504Z" creationid="cheon" creationdate="20181122T105504Z">
-        <seg>"You must definitely tell me if you need any help after reaching K\</seg>
+      <tuv lang="EN-US" changeid="cheon" changedate="20181122T105649Z" creationid="cheon" creationdate="20181122T105504Z">
+        <seg>"You must definitely tell me if you need any help after reaching Kalos City. This time it was all thanks to you, or else that me and my daughter will definitely..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4728,6 +4728,14 @@ He had just the right time to carefully research the black essence force.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055124Z" creationid="Joey" creationdate="20180808T203632Z">
         <seg>Both having finished their jerky, Jiang Yi once again checked Xiaonu's wounds. Confirming that she did not have any injured bones, he got her to return home to find Chunya to help her apply ointment, while instructing her not to let any of the family members know what happened that day.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>两人正有一句没一句的闲聊着，却忽然听见远处一声惊叫传来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="cheon" changedate="20181122T105937Z" creationid="cheon" creationdate="20181122T105937Z">
+        <seg>The two were chatting nonchalantly when they suddenly heard a scream from a distance.</seg>
       </tuv>
     </tu>
     <tu>
