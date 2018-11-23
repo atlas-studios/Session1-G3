@@ -1274,6 +1274,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“唰——”一辆奢华的跑车，稳稳的停在摩天大厦的门口。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="user" changedate="20181123T053315Z" creationid="user" creationdate="20181123T053218Z">
+        <seg>"Whoosh--" A luxurious sports car stops steadily at the entrance of the skyscraper. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“唰！唰！唰！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T101804Z" creationid="Joey" creationdate="20180922T101804Z">
@@ -16456,6 +16464,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>首先映入眼帘的，是一双修长的腿，包裹在黑色的西装裤下，踩在地上，无声的气场仿佛踩在每个人的心尖上。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="user" changedate="20181123T054108Z" creationid="user" creationdate="20181123T054108Z">
+        <seg>The first thing that catches the eye of onlookers, is a pair of long legs, wrapped under a pair of black pants. Every soundless step taken was like a heavy step on the souls of every single person in the room. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>马家作为天羽城五大家族之一，他们家族的一举一动都被其余家族所关注，不过马飞不想把这事闹得人尽皆知，所以其余家族只是知道马家在找一个人，一个铸鼎境二重，十五六岁的少年。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181025T154551Z" creationid="tianqi" creationdate="20181025T153145Z">
@@ -16610,8 +16626,8 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>高耸入天的的摩天大厦，屹立在H市寸土寸金的金融中心，睥睨一切。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="user" changedate="20181123T052727Z" creationid="user" creationdate="20181123T052727Z">
-        <seg>A building that towers right into the sky, standing in land-scarce H City's financial hub, looking down at everything beneath it. </seg>
+      <tuv lang="EN-US" changeid="user" changedate="20181123T053251Z" creationid="user" creationdate="20181123T052727Z">
+        <seg>A skyscaper that towers right into the sky, standing in land-scarce H City's financial hub, looking down at everything beneath it. </seg>
       </tuv>
     </tu>
     <tu>
